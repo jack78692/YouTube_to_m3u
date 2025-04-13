@@ -183,7 +183,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OaKB27t.png" tvg-id="", WB Kids
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744596878/ei/Lhv8Z4r2FK6W2_gP58fLuAU/ip/20.25.192.167/id/9cIRS0bYyIY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AccgBcNwXTt8WNbPRD8ovxYz7l_zZpZsi7w8hdG8lqnNZPYdE6yXf9E7iiKqHTbszweV46EAnTX-Qi2P/spc/_S3wKrNN4uhF9W4rGOihyhbi899bjpR2VkkqocE5WrE3gIqLS90y_eRkIDUm5sM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOzpqK8Sg7UZNbvEUZ-H8cliFYTqZ4EgW90vwpMi0vJICIDLWMWSuUxiWFYiUblgZS8c-Cxev3jf0a-ohMIjLdurH/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/vHpmWzh.png" tvg-id="", DC Kids
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
