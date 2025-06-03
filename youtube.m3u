@@ -201,7 +201,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/sDGYwUo.jpg" tvg-id="", Booba – Cartoon for Kids
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1748970817/ei/4dg-aJWyFvC3kucPpoLy2AI/ip/20.51.153.74/id/Jm_1s5E4lsw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51477230/txs/51477230%2C51477231%2C51477232/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLOq76mrkVKJqXBZBDhaEagTwBK3FZbTcnBE7KrGNiIWLMeIhrRtKJ0W8gh6LWDO3l_jpVM28PwI/spc/l3OVKYEgOzVyTcMPMHEZx50cShU5N563kQv4BMSQZuMmQNLQNGRZ01HjIjJsRko/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOEaBr3Cr9pLufEJWfP2XAzeY9mK-BhKJ3fzXzLwUpnIAiEAxqAVxGK0Tuo9mByKqIe3minC2tN_Qh4JcsEbgAwcyVU%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/LS9HqXf.png" tvg-id="", Thomas & Friends
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
