@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/GKw3-YGSe7_0K_Y8E-cqomjUmSvqD2E7kBJXaB05QTMYONC6RjJcMkLgtm8KdqX9EEV6QwgDGw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Times Now
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749324152/ei/GD1EaLr3DtXBkucP-M_KyQc/ip/4.227.173.176/id/wu3M0m7u8As.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLP0P7a__3oQ9VCUuFpadkuQgCeeLQquXpLD1pBnmEU2yyU-Zb-e9SVI9xG9h07tr0Qx81upOFMn/spc/l3OVKdUOb2jUuQ6FjQ8Slcr_t4FtNS6PkO39N2_PeIna3OSLzRfcUnfW8-gfl68/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466642/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMKqP_xYVCsOF4FB14f6Fuy3PKwv5y7hRLiXOhxGAYQjAiEA41rqZVoM--5-P9NtUrtyKuGKJllZslPCG6TsvOLTM1c%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/s3JUNqT.jpg" tvg-id="", LiveNOW from FOX
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
@@ -123,7 +123,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/eHxuTsb.png" tvg-id="", TeleSUR English
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749324159/ei/Hz1EaK-xH4OBkucPt6eE2Ag/ip/4.227.173.176/id/qP2Gnp8I9sY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51477232/txs/51477230%2C51477231%2C51477232/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLM-hkL4nsbg_3ZdPn7YzCukIQPr8jTItNEekICEleN1-Bl4LLfK5HWq2u36QihrI6-vEx-h7GVk/spc/l3OVKTUiR9IJAn7o42K353zKSsFFhVb46cH7iyNCoijclfk2fcBY3fYJrAOpWms/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51469039/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgRvpRanWKrNuK67V1shShjO27x0KLDq1R7i_jbX7vY4sCIHig7_kQxUVus0F4r2mu6mwbdhdVI9_HmDt3Pdf8h2G7/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT7r1e0epwtoWbDZF-hoJ_XbzCSty6iU2OVzwTq=s88-c-k-c0x00ffffff-no-rj" tvg-id="", CGTN Europe
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
