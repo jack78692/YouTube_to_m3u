@@ -132,7 +132,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1750188547/ei/o21RaLLAKsSpsfIPorzYyAM/ip/20.172.29.207/id/LuKwFajn37U.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51507769/txs/51507766%2C51507767%2C51507768%2C51507769%2C51507770/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPs3ZQxhLCmtvj8UC8pKTFPFSd4ac6Iv27TUmFf0zjb_apvhm5wUjJkIemA9WtIZk3jj6UUTeeJ/spc/l3OVKYQRLKk_TwCw5bmGkrOG6T6A7sDmCw9-rYljihDcdE0JLSVa-WxkCXfR2fi7ynk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMTaM_hgFxuIN4hIO9FWN250QL8CCdGvf95sSjg36-NsCIQDO90YCiPlezOt4RtdoXq590PQ1Gt9fSs0tdbTOvHK9nw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
