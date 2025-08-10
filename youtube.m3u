@@ -213,7 +213,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OwjRrru.png" tvg-id="", Marvel HQ
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754867601/ei/MdOYaOH7Kay-kucPzNucqQQ/ip/172.178.110.240/id/AZBfmtviAuo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPxhhNTeFkLPTCTfKmxJ2t8x6eWptNDBM3mWMLDCkUKYFPKJ55-RCwEHjSTllvrbz9o85bxBiOj/spc/l3OVKaeEuUjbSwIHgqbYtG3T-txPAUG80qhzOqK0HlmEOxRMsyV43OByzkT52Ck1E7Y/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51552689/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbZhOddBeYF30bUr-Ys6mddkdbz9PB8ADC1yAQMIbBrkCIQDaBWzaZLK7OT4cYwXEhpi2xCdjXklfEthvWDI-dUOmIw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/bIVlPlo.png" tvg-id="", Nick Jr.
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
@@ -288,7 +288,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="Ytshop" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLScL1Emq0NQBV1DRDejd2qSJUXqpBTq03oerIJR7t0=s48-c-k-c0x00ffffff-no-rj" tvg-id="", QVC 2 Live Stream
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754867628/ei/TNOYaMGQGs3DkucP5qv4gAg/ip/172.178.110.240/id/_v_wMS-uACE.10/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51557238/txs/51557232%2C51557233%2C51557234%2C51557235%2C51557236%2C51557237%2C51557238/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMUhsqAEtuVsr4-GefITRsJrIm1ZZEyapdPNKjzMltQ0QzjTpyWFfM7w6UM0BtR59AM7XKbp-e9/spc/l3OVKZP-kM7F4OGzzlNukwWPIj-8SoJCyavae19lj25t3G2oTAnT5v-B5PS9pk4rDIg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaGsoGhcFyBOqvd5wVr8fVLnxomOPQke_XkC-kuxpUmQCIQCocVjjgWk1uoanmCydSZMg5h-9C2v4G1_x6IX-oouQsQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Ytshop" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ9gvWmuywv4Ugue9aiiGGxqi5r_plbVVpQShzPJQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", HSN Live Stream
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
