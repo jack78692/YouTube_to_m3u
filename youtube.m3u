@@ -156,7 +156,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQbVFfYfijJ0VrwhRpN02LYgy8GGK2PGE-4wBZzOw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", CNA
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761913352/ei/qFUEaeGnE-fQlu8PqevliAY/ip/64.236.161.20/id/XWq5kBlakcQ.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5SWkvJJSSnZ4MtsJeE6R7_9hHgCS_W4Tcxj9Hd554c675PZs1QyrwemSiQNg72EowW_J6uqCs2W/spc/6b0G_HnQP8A0eRcYfHwU-cLUnuU1Il-qAyMcZachM2RETrB72R2foWQ7QyMh6oIPmGBMig/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIz4FnF_XPZxNSIP-6ypU9C5dzvO6kwTjRmx2sYoa0I4CIQDN8X-1lSasyWMQtQdOQXc8dc4PrL55nQSDl47J07e0ew%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.googleusercontent.com/rSm619jUmehqFMzZ9OHgc9saNFDnEEKAOfJ__NAjMm4mhVBJEktghy4gXNBqiTbXywA2KKQG=s176-c-k-c0x00ffffff-no-rj" tvg-id="", The Telegraph
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
@@ -183,7 +183,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OaKB27t.png" tvg-id="", WB Kids
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761913360/ei/sFUEaZ3yIdLplu8P9J7D0QY/ip/64.236.161.20/id/v45_iClX2m0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5T5K1TpjKtN29dxiF5tvv3bCSltrb5FA-WSOno3wBFai-3FtOIQXQzr5vp-m-YILYwrYp233Qhf/spc/6b0G_DwaJmA9pQMBtZCA2xB0GbPmLka9Ip0OjoKMdVibKveXZO20vuvSXlPbKQzVDU8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOSh_1siFFLTDwVUBqUXPmgrUQ-lyA5OJ5EGUj3fiKwJAiAI0WDxF_XARrGFTPNbUfNbBdbxJeI5qxWYEYkgeW6flA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/vHpmWzh.png" tvg-id="", DC Kids
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
