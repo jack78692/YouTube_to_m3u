@@ -201,7 +201,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/sDGYwUo.jpg" tvg-id="", Booba – Cartoon for Kids
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769020705/ei/wchwaZTfDPKAkucPrq-mmQI/ip/172.208.126.105/id/VmVAfV-WE0c.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_oZrhmVsXkuTYPjslpV8xL-9gNK3SGBoBq9MMOo81PrnRjDryFCcx3gVzqOVVC3f1QwbVI95Uju/spc/q5xjPHP6bI69dSlrJlsSYa1s2RT1QiNivXIAhN98n5paeWfZaVPQwp-TmCL-R4-I0S4/vprv/1/go/1/ns/Msfq6PrLpW19SyRA8wpCnt0S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626154/dover/11/n/42eOSAACboEcZnID5aJ/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgA6JyagM9j5CPtnLwExn7OL6Z2ChkXWsDF2ADKJ1Sfm8CIQC5kNfw-uvG2Or6D9vgxymW3TjlLiFM7kybnjUobApltA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/LS9HqXf.png" tvg-id="", Thomas & Friends
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
@@ -216,7 +216,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/bIVlPlo.png" tvg-id="", Nick Jr.
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769020709/ei/xchwabz2H46LkucPj9LriQQ/ip/172.208.126.105/id/qzoIDsl77F0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AW-iu_pZJKJMT7Ma6CFOTFRzKBoxLAUb28PyGqw1Z_xxYpL5vOaz6zxx-EL9aiLMiiWJvoSP-H6oUpoc/spc/q5xjPOIkqEaQjyJYOvMs8aiwZVvUv3_UYVNvEiOKeqO-1Cdw8VK8871vpfBFgCp_u228yw/vprv/1/go/1/ns/EQP6sqtcJk3TcazYxgZWsHYS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/qMaHhY0F6DUoM77l3FZ/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAMqxs2y8N3wnSRSMIcsBeJoHL5TDRKfBxZkF9uv_-wKhAiAOwhcsdq0d6Y0n1pDbYkqjpyofhkMI04hfxS5KYHqCpg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/dtYOGod.png" tvg-id="", Blaze and the Monster Machines
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
