@@ -174,7 +174,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UH7Kllx.png" tvg-id="", ChuChu TV Nursery Rhymes
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773259402/ei/KnaxaYDsDqPoybgP5b6u0Ac/ip/172.215.216.217/id/YY8yc2ctN0g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51794312/txs/51794307%2C51794308%2C51794309%2C51794310%2C51794311%2C51794312/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-x3ggdGW95MAPa0X9iSY9sewbRdWNXB5-h8302XfuW-yepy9PtmT1AORLNSYY06IqMFZ6j4uknb/spc/6dlaFJm_wFw76IB2GLBJKNua8DzOHKxnyYrxN1e-I-2CbW4NEXwWI0l7_Dp49eFnhLdnIw/vprv/1/go/1/ns/xho0jkhKzKq4PW_r9WRjwZgT/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/ayOpPxhPNWpO6QRK/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhANkMrIgh_dxh_RjOxEGLl5Vo9DuefvCBUUGTADLf_WORAiBLVTfT2Ad_e2EjqbVMkL9fgbMcdExZ-6GEm0Fc6OJuTg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/IM6wFyI.png" tvg-id="", CoComelon Songs For Kids
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
