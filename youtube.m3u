@@ -225,7 +225,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRtIgcjpDYco9mPxsc4npIOji1VJq4amEEIbX4cAQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Dave And Ava
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775341790/ei/fjzRadaIMNm0ir4PsJ2CcQ/ip/172.215.239.211/id/G8_IfPDrmAU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828959/txs/51828959%2C51828960%2C51828961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGJZEtMUYIURf4YtfdHJPi_6c9DFoYbYwjwZnmsBOkCZrYbbZelRGnuWTitNTJkPkgOlX7fevp2p/spc/jlWavaM3zWQyl95lrZ5lQ6EfstAfN_VbrFVdDu3daGfeNJFgUrWgcUX_36uWjdn4UOQF9Q/vprv/1/go/1/ns/hFTnI_VFvWLionv60f5u58sU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/TjFaBnR9waKRQI7x7Pk-/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgensYWUIIERfI3xNJavQVhDuU7GMkJAuXJEFL8EGRK1wCIEgurYJs8Re6EsA8cEgh9o5ejtq31QyQe5ml4yGwXBWS/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbHfeRktrFC-4AJhmtM2Q75ZaGo1hve0tPlPf4PA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", POCOYO
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
