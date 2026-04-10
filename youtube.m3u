@@ -102,13 +102,13 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/mOlz491.png" tvg-id="", News 12 New York
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775857488/ei/8BrZab7HLpCDlu8PkJLjuQo/ip/135.232.232.20/id/JEtvLd4B-AY.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGINugb7bi60EscDoSJvGf3EQjvIV7DK14ysV4Mix1V10svDASiBdTU7hx0hGdoMLl3X58F4qgA1/spc/jlWavWBBfKYC3t8impg6tAlU3582fCW4LuSFtjfYZic5XnczQNljhRhBXHmjsx_HDs0aFg/vprv/1/go/1/ns/vDDP0KslgH190uKfIAPJuvkU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51869322/dover/11/n/29OvJ3Uv9UMxiRdT/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAOUhiVeDtsaesQriy_LPGKFj64yQ0RH-i5apJlNf26mbAiARf0OeST2UnMo67ybm2OPtmj9vgJEwCSOQ9kStNBiNJA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/GKw3-YGSe7_0K_Y8E-cqomjUmSvqD2E7kBJXaB05QTMYONC6RjJcMkLgtm8KdqX9EEV6QwgDGw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Times Now
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/s3JUNqT.jpg" tvg-id="", LiveNOW from FOX
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775857493/ei/9RrZaf2pBc6ulu8PlfKTwQo/ip/135.232.232.20/id/JciGyR_5ejA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773317/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGI-EuPELGCIEl6tARYiGbujgj_krdbsMYdJgpk9YvfjsYurha6rdbfJIa7_A5_QtK_8R0haDlvN/spc/jlWavZEQ5M78mbAGROU3ndhs4k7bGLWqNR0pnRJ8A90i6X63MdtCMMtM0MWmqsbunozSkw/vprv/1/go/1/ns/MH0YXOQFChRHTliX0yvgWbkU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51869322/dover/11/n/Rqoj3r3g9EUSjhba/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAOm9XcXp1bpNllZ7mrPCSa826NQgMMQNXanvS0bkwFwvAiEAi3ewrZyMfLhE7s5dtfmmR-s2a6nw76YL6YYGxO1DmYg%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/8OCSD9V.png" tvg-id="", ABC News (Australia)
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
