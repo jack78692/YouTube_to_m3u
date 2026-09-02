@@ -129,7 +129,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1788406260/ei/lJWYaoiABOKDkucPvJTDKA/ip/64.236.201.24/id/LuKwFajn37U.540/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AR3QkAkl0TSDbTWTrLq8Qo6VefAEjy6YtYASjv1R9of7shg88Fx-ZCPP0tHpld-Ld9GX2pGbAdltZvTi/spc/I-rgIfhw7ZJK0GzNCsoUkcvKR0v44onsgrLkqBm617cOr1lvnkH-iM3NUp6X1vL7e3nDEsml/vprv/1/go/1/ns/5Qp3SticBMht08A6_b0TSb0X/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52135441/dover/11/n/5V7ih0cq-1gi0o3-Bhx/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgauGzCtS0HQxAzYWydpx1u-s6LS9JNgx8deYRLw9Bkv4CIB4ZEatO2PZEhiY7PAPw8plGrhlI_RCuVV2WywO7mBfs/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
@@ -231,7 +231,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="Educational" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR6vCt7w4mOtpfn7dGVmobtUEuwBJdvlvBXGTr_iw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", English Class101
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1788406312/ei/yJWYasi_N_C-kucPufbPsQ0/ip/64.236.201.24/id/UXMfT7U2pkg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AR3QkAkHbte36AX9u-Qtf7wE3FbPW-48DFLxBCXKtZ9DHwJpRklYfUD-XISKw-R4Po9K2pZ3e776xT06/spc/I-rgIR86f1J_5woUCGlQt4KMHhmRyHjQcjPc_Nsfsvo6XamrS_AfvlhDcWYSkuteKVv9tH5u/vprv/1/go/1/ns/tDo2davGKsj7u2QomzE5faEX/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52135441/dover/11/n/LsBCb_E1Q4wEhgvjVLh/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIgHLHQpqwP9PZkbUpbI9c1j9JfLAszg3fiPFm3gx_TfMsCIQD4PBF3bZk7feFKBopEbJ_ZxO1aj8_h_lzFEpAb347BNw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Educational" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTaNnIZrEVNHk-OgfTRlO1n2aeAZ657f5FrG-5EaA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Simplilearn Official
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
